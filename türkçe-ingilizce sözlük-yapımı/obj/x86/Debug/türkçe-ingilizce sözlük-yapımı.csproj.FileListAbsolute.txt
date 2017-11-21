@@ -1,0 +1,10 @@
+F:\RIDVAN 11-AA 2.DÖNEM\yaptigimiz-ntp\türkçe-ingilizce sözlük-yapımı\türkçe-ingilizce sözlük-yapımı\bin\Debug\türkçe-ingilizce sözlük-yapımı.exe
+F:\RIDVAN 11-AA 2.DÖNEM\yaptigimiz-ntp\türkçe-ingilizce sözlük-yapımı\türkçe-ingilizce sözlük-yapımı\bin\Debug\türkçe-ingilizce sözlük-yapımı.pdb
+F:\RIDVAN 11-AA 2.DÖNEM\yaptigimiz-ntp\türkçe-ingilizce sözlük-yapımı\türkçe-ingilizce sözlük-yapımı\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\RIDVAN 11-AA 2.DÖNEM\yaptigimiz-ntp\türkçe-ingilizce sözlük-yapımı\türkçe-ingilizce sözlük-yapımı\obj\x86\Debug\türkçe_ingilizce_sözlük_yapımı.Form1.resources
+F:\RIDVAN 11-AA 2.DÖNEM\yaptigimiz-ntp\türkçe-ingilizce sözlük-yapımı\türkçe-ingilizce sözlük-yapımı\obj\x86\Debug\türkçe_ingilizce_sözlük_yapımı.Form2.resources
+F:\RIDVAN 11-AA 2.DÖNEM\yaptigimiz-ntp\türkçe-ingilizce sözlük-yapımı\türkçe-ingilizce sözlük-yapımı\obj\x86\Debug\türkçe_ingilizce_sözlük_yapımı.Properties.Resources.resources
+F:\RIDVAN 11-AA 2.DÖNEM\yaptigimiz-ntp\türkçe-ingilizce sözlük-yapımı\türkçe-ingilizce sözlük-yapımı\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\RIDVAN 11-AA 2.DÖNEM\yaptigimiz-ntp\türkçe-ingilizce sözlük-yapımı\türkçe-ingilizce sözlük-yapımı\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\RIDVAN 11-AA 2.DÖNEM\yaptigimiz-ntp\türkçe-ingilizce sözlük-yapımı\türkçe-ingilizce sözlük-yapımı\obj\x86\Debug\türkçe-ingilizce sözlük-yapımı.exe
+F:\RIDVAN 11-AA 2.DÖNEM\yaptigimiz-ntp\türkçe-ingilizce sözlük-yapımı\türkçe-ingilizce sözlük-yapımı\obj\x86\Debug\türkçe-ingilizce sözlük-yapımı.pdb
